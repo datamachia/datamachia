@@ -10,7 +10,18 @@ I’m an aspiring data analyst who loves diving into complex datasets to extract
 
 * 🌍 **Location:** London Area, United Kingdom
 
-* 🧠 **Technical Skills:** Access, Azure Data Fundamentals (DP900), Excel, Google Analytics, Looker Studio, Power BI, Python, Pandas (Pandas, NumPy, Matplotlib, Seaborn, Plotly), R, SQL and Tableau
+* 🧠 **Technical Skills:**
+  
+* . Access
+* . Azure Data Fundamentals (DP900)
+* . Excel
+* . Google Analytics
+* . Looker Studio
+* . Power BI
+* . Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+* . R
+* . SQL
+* . Tableau
 
 * 🤝 **Collaboration:** I’m open to collaborating on different projects, so feel free to reach out
 
