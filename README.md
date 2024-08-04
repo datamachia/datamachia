@@ -45,7 +45,7 @@ I am an aspiring data analyst who loves diving into complex datasets to extract 
 
 **Description**: This project leverages R and Power BI to clean, analyse and visualise insights and key metrics from Hollywood's most profitable films from 2007 to 2011. 
 
-### * [**Flight Delays EDA**](https://github.com/datamachia/flightdelayseda)
+### [**Flight Delays EDA**](https://github.com/datamachia/flightdelayseda)
 
 **Technologies Used**: Python (Pandas, Matplotlib and Seaborn)
 
