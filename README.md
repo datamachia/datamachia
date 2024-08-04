@@ -50,3 +50,9 @@ I am an aspiring data analyst who loves diving into complex datasets to extract 
 **Technologies Used**: Python (Pandas, Matplotlib and Seaborn)
 
 **Description**: This project analyses US flight delays and cancellations from July 2019 to July 2022 using **Python**, **Pandas**, **Matplotlib** and **Seaborn**. 
+
+### [**The Wealth of Nations**](https://github.com/datamachia/thewealthofnations)
+
+**Technologies Used**: Excel and Tableau
+
+**Description**: This project uses **Excel** for data cleaning and initial analysis, and **Tableau** for creating an interactive dashboard that explores the relationships between the top 20 countries in terms of GDP per person, life expectancy and smartphone users. 
