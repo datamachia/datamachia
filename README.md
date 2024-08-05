@@ -57,7 +57,7 @@ I am an aspiring data analyst who loves diving into complex datasets to extract 
 
 **Description**: This project uses **Excel** for data cleaning and initial analysis, and **Tableau** for creating an interactive dashboard that explores the relationships between the top 20 countries in terms of GDP per person, life expectancy and smartphone users. 
 
-### [**Bike Sales Dashboard **](https://github.com/datamachia/bikesalesdashboard)
+### [**Bike Sales Dashboard**](https://github.com/datamachia/bikesalesdashboard)
 
 **Technologies Used**: Tableau
 
