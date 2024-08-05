@@ -56,3 +56,11 @@ I am an aspiring data analyst who loves diving into complex datasets to extract 
 **Technologies Used**: Excel and Tableau
 
 **Description**: This project uses **Excel** for data cleaning and initial analysis, and **Tableau** for creating an interactive dashboard that explores the relationships between the top 20 countries in terms of GDP per person, life expectancy and smartphone users. 
+
+### [**Bike Sales Dashboard **](https://github.com/datamachia/bikesalesdashboard)
+
+**Technologies Used**: Tableau
+
+**Description**: Created using **Tableau**, this project provides key business insights from a global dataset of sales records. It features detailed analyses of sales performance, trends, customer demographics and revenue metrics.
+
+
