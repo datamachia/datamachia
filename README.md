@@ -23,6 +23,8 @@ I am an aspiring data analyst who loves diving into complex datasets to extract 
   . SQL  
   . Tableau  
 
+* 🖥️  See my portfolio at [**Datamachia**](https://datamachia.github.io/)
+
 * 🤝 **Collaboration:** I’m open to collaborating on different projects, so feel free to reach out
 
 * 📈 **Projects:** Check out some of my recent works below
